@@ -80,7 +80,11 @@ function App() {
 	let recent = null;
 	return (
 		<div className="container">
-			<h3>Daftar Pekerja Berdasarkan Kota, Jenis Kelamin & Macam Pekerjaan</h3>
+			<h1>KADENCE TEST</h1>
+			<h3>
+				Daftar Pekerja Berdasarkan Urutan Kota Terbanyak, Jenis Kelamin & Jumlah
+				Dari Jenis Pekerjaan
+			</h3>
 			<hr />
 			<table id="table_job">
 				<thead>
